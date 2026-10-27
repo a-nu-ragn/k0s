@@ -7,7 +7,7 @@ import (
 	"os"
 
 	"github.com/k0sproject/k0s/internal/pkg/flags"
-	"github.com/k0sproject/k0s/pkg/node"
+	"github.com/k0sproject/k0s/internal/node"
 )
 
 const (
